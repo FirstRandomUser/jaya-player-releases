@@ -60,7 +60,7 @@ Birden fazla liste ekleyebilirsiniz. Güncelleme hatayla biterse (örneğin inte
 
 ## 4. Yayın akışı ve arşiv
 
-- Yayın akışı **24 saat geriye ve 36 saat ileriye** saklanır.
+- Yayın akışı **24 saat geriye ve 48 saat ileriye** saklanır.
 - Kanal listesinde ▶'ye basın — yayın akışı açılır. Sağlayıcınız destekliyorsa geçmiş programlar **arşivden** izlenebilir.
 - Arşivde: **OK** — ilerleme çubuğu, ◀ ▶ — adım (basılı tutunca hızlanır), **Geri** — canlı yayına dönüş.
 
@@ -148,6 +148,14 @@ Gizli grupları yeniden göstermek için grup listesinde **◀'ye hızlıca üç
 - **Yayın akışı yok** — listedeki EPG adresini kontrol edin; **Oynatma listeleri**'ni açın — yükleme hatası orada görünür.
 - **Telefonda ses dengelemeyle ses cızırdıyor** — dengelemeyi kapatın.
 - **Zayıf TV kutusunda 4K takılıyor** — "Büyük" arabelleği seçin veya HD izleyin.
+
+---
+
+## 13. Cihaz bağlantısı ve kalite
+
+- **Cihaz bağlantısı** (Ayarlar → Cihaz bağlantısı): telefonu TV'ye kodla bağlayın — kod TV ekranında kendiliğinden görünür. Listeleri ve ayarları gönderin, QR kodla tarayıcıdan liste ekleyin, telefondan TV'ye aktarın (📺, telefon kumanda olur) ve izlemeyi geri alın.
+- **Kalite** (bilgi paneli): «Otomatik» yavaş ağda kaliteyi düşürür; «En iyi» her zaman en yükseği. Kanal başına hatırlanır.
+- **«Otomatik» arabellek**: sık takılmada arabellek kendiliğinden büyür.
 
 ---
 

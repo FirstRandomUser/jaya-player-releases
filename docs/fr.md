@@ -60,7 +60,7 @@ Vous pouvez ajouter plusieurs playlists. Si une mise à jour échoue (par exempl
 
 ## 4. Guide et archives
 
-- Le guide est conservé **24 heures en arrière et 36 heures en avant**.
+- Le guide est conservé **24 heures en arrière et 48 heures en avant**.
 - Appuyez sur ▶ dans la liste des chaînes pour ouvrir le guide. Les émissions passées peuvent être regardées depuis les **archives** si votre fournisseur les propose.
 - Dans les archives : **OK** — barre de navigation, ◀ ▶ — pas (s’accélère en maintenant), **Retour** — revenir au direct.
 
@@ -148,6 +148,14 @@ Pour l’instant toutes les fonctions sont **gratuites**. À l’arrivée de Pro
 - **Pas de guide** — vérifiez l’adresse EPG de la playlist ; ouvrez **Playlists** — l’erreur de chargement y est affichée.
 - **Son qui grésille sur smartphone avec le nivellement** — désactivez le nivellement.
 - **La 4K saccade sur une box peu puissante** — choisissez le tampon « Grand » ou regardez en HD.
+
+---
+
+## 13. Connexion des appareils et qualité
+
+- **Connecter des appareils** (Paramètres → Connecter des appareils) : associez le téléphone au téléviseur par un code qui s’affiche tout seul sur la TV. Envoyez playlists et paramètres, ajoutez une playlist depuis un navigateur via QR code, diffusez du téléphone vers la TV (📺, le téléphone devient télécommande) et reprenez la lecture.
+- **Qualité** (panneau d’infos) : « Auto » baisse la qualité sur réseau lent ; « Meilleure » utilise toujours la plus haute. Mémorisé par chaîne.
+- **Tampon « Auto »** : s’agrandit tout seul en cas de coupures fréquentes.
 
 ---
 

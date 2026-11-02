@@ -60,7 +60,7 @@ Mehrere Playlists sind möglich. Schlägt ein Update fehl (z. B. kein Internet),
 
 ## 4. Programmführer und Archiv
 
-- Der Programmführer wird **24 Stunden zurück und 36 Stunden voraus** gespeichert.
+- Der Programmführer wird **24 Stunden zurück und 48 Stunden voraus** gespeichert.
 - In der Senderliste ▶ drücken — der Programmführer öffnet sich. Vergangene Sendungen lassen sich im **Archiv** ansehen, wenn der Anbieter es unterstützt.
 - Im Archiv: **OK** — Spulleiste, ◀ ▶ — Schritt (beim Halten schneller), **Zurück** — zurück zum Live-Programm.
 
@@ -148,6 +148,14 @@ Derzeit sind alle Funktionen **kostenlos**. Wenn Pro erscheint, erhält jeder we
 - **Kein Programmführer** — EPG-Adresse in der Playlist prüfen; **Playlists** öffnen — dort steht der Ladefehler.
 - **Knackender Ton auf dem Smartphone mit Lautstärkeausgleich** — Ausgleich ausschalten.
 - **4K ruckelt auf einer schwachen TV-Box** — Puffer „Groß“ wählen oder in HD schauen.
+
+---
+
+## 13. Geräte verbinden und Qualität
+
+- **Geräte verbinden** (Einstellungen → Geräte verbinden): Handy per Code mit dem Fernseher koppeln — der Code erscheint automatisch auf dem TV. Playlists und Einstellungen senden, Playlist per QR-Code im Browser hinzufügen, vom Handy auf den TV übertragen (📺, das Handy wird zur Fernbedienung) und zurückholen.
+- **Qualität** (Infoleiste): „Auto“ senkt die Qualität bei langsamem Netz; „Beste“ nutzt immer die höchste. Pro Sender gespeichert.
+- **Puffer „Auto“**: wächst bei häufigem Nachladen automatisch.
 
 ---
 

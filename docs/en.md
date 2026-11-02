@@ -60,7 +60,7 @@ You can add several playlists. If an update fails (for example, no internet), th
 
 ## 4. TV guide and archive
 
-- The TV guide is kept for **24 hours back and 36 hours ahead**.
+- The TV guide is kept for **24 hours back and 48 hours ahead**.
 - Press ▶ in the channel list to open the TV guide. Past programmes can be watched from the **archive** if your provider supports it.
 - In the archive: **OK** — seek bar, ◀ ▶ — step (speeds up when held), **Back** — return to live.
 
@@ -148,6 +148,14 @@ Right now all features are **free**. When Pro arrives, everyone gets another **3
 - **No TV guide** — check the EPG address in the playlist; open **Playlists** — the loading error is shown there.
 - **Crackling audio on a smartphone with volume levelling** — turn levelling off.
 - **4K stutters on a weak TV box** — choose the "Large" buffer or watch in HD.
+
+---
+
+## 13. Connecting devices and quality
+
+- **Connect devices** (Settings → Connect devices): pair a phone with the TV by code — the code appears on the TV automatically. Send playlists and settings, add a playlist from a browser via QR code, cast from the phone to the TV (📺 button, the phone becomes a remote) and take playback back. Connected devices can be renamed and removed.
+- **Quality** (info panel): “Auto” lowers quality on a slow network (if the channel offers several); “Best” always uses the highest. Remembered per channel.
+- **“Auto” buffer**: the buffer grows automatically on frequent rebuffering.
 
 ---
 

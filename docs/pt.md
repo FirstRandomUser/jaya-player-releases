@@ -60,7 +60,7 @@ Pode adicionar várias listas. Se uma atualização falhar (por exemplo, sem int
 
 ## 4. Guia e arquivo
 
-- O guia é guardado **24 horas para trás e 36 horas para a frente**.
+- O guia é guardado **24 horas para trás e 48 horas para a frente**.
 - Prima ▶ na lista de canais para abrir o guia. Os programas passados podem ser vistos a partir do **arquivo**, se o fornecedor o suportar.
 - No arquivo: **OK** — barra de avanço, ◀ ▶ — passo (acelera ao manter premido), **Voltar** — regressar ao direto.
 
@@ -148,6 +148,14 @@ Neste momento todas as funções são **gratuitas**. Quando o Pro chegar, todos 
 - **Sem guia** — verifique o endereço EPG na lista; abra **Listas** — o erro de carregamento aparece aí.
 - **Áudio a crepitar no smartphone com nivelamento** — desligue o nivelamento.
 - **4K aos solavancos numa TV box fraca** — escolha o buffer «Grande» ou veja em HD.
+
+---
+
+## 13. Ligar dispositivos e qualidade
+
+- **Ligar dispositivos** (Definições → Ligar dispositivos): associe o telemóvel à TV com um código que aparece sozinho na TV. Envie listas e definições, adicione uma lista pelo navegador via QR, transmita do telemóvel para a TV (📺, o telemóvel vira comando) e traga a reprodução de volta.
+- **Qualidade** (painel de informação): «Auto» baixa a qualidade com rede lenta; «Melhor» usa sempre a mais alta. Guardado por canal.
+- **Buffer «Auto»**: cresce sozinho com paragens frequentes.
 
 ---
 

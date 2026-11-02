@@ -60,7 +60,7 @@ Bir nechta pleylist qo‘shish mumkin. Yangilash xato bilan tugasa (masalan, int
 
 ## 4. Ko‘rsatuvlar dasturi va arxiv
 
-- Ko‘rsatuvlar dasturi **24 soat orqaga va 36 soat oldinga** saqlanadi.
+- Ko‘rsatuvlar dasturi **24 soat orqaga va 48 soat oldinga** saqlanadi.
 - Kanallar ro‘yxatida ▶ bosing — ko‘rsatuvlar dasturi ochiladi. Provayder qo‘llab-quvvatlasa, o‘tgan ko‘rsatuvlarni **arxivdan** ko‘rish mumkin.
 - Arxivda: **OK** — o‘tkazish chizig‘i, ◀ ▶ — qadam (bosib tursangiz tezlashadi), **Orqaga** — jonli efirga qaytish.
 
@@ -148,6 +148,14 @@ Hozir barcha imkoniyatlar **bepul**. Pro chiqqanda har kimga yana **3 oy** to‘
 - **Ko‘rsatuvlar dasturi yo‘q** — pleylistdagi EPG manzilini tekshiring; **Pleylistlar** bo‘limini oching — yuklash xatosi o‘sha yerda ko‘rinadi.
 - **Smartfonda ovozni tenglashda ovoz xirillaydi** — tenglashni o‘chiring.
 - **Kuchsiz pristavkada 4K to‘xtab-to‘xtab ketadi** — «Katta» buferni tanlang yoki HD da ko‘ring.
+
+---
+
+## 13. Qurilmalarni ulash va sifat
+
+- **Qurilmalarni ulash** (Sozlamalar → Qurilmalarni ulash): telefonni televizorga kod bilan ulang — kod TV ekranida o‘zi chiqadi. Pleylistlar va sozlamalarni yuborish, QR orqali brauzerdan pleylist qo‘shish, telefondan TV ga uzatish (📺, telefon pultga aylanadi) va tomoshani qaytarib olish.
+- **Sifat** (ma’lumot paneli): «Avto» sekin tarmoqda sifatni pasaytiradi; «Eng yaxshi» — doim eng yuqori. Har bir kanal uchun eslab qolinadi.
+- **«Avto» bufer**: tez-tez to‘xtasa, bufer o‘zi kattalashadi.
 
 ---
 
