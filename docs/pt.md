@@ -159,4 +159,12 @@ Neste momento todas as funções são **gratuitas**. Quando o Pro chegar, todos 
 
 ---
 
+## 14. Conforto
+
+- **Lembretes:** no guia, OK num programa futuro — marcado ◉, um minuto antes surge «Mudar».
+- **Favoritos:** OK longo — ▲▼ reordenam, OK renomeia.
+- **Programa no ecrã**, **tamanho da interface**, **arranque automático**, novo tema **«Néon»**.
+
+---
+
 © 2026 Ruslan G. Todos os direitos reservados.

@@ -159,4 +159,12 @@ Derzeit sind alle Funktionen **kostenlos**. Wenn Pro erscheint, erhält jeder we
 
 ---
 
+## 14. Komfort
+
+- **Erinnerungen:** im Programmführer OK auf einer künftigen Sendung — Markierung ◉, eine Minute vor Beginn erscheint „Umschalten“.
+- **Favoriten:** langes OK — ▲▼ sortieren, OK benennt um.
+- **Sendung auf dem Bildschirm**, **Oberflächengröße**, **Autostart**, neues Design **„Neon“**.
+
+---
+
 © 2026 Ruslan G. Alle Rechte vorbehalten.

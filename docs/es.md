@@ -159,4 +159,12 @@ Ahora todas las funciones son **gratuitas**. Cuando llegue Pro, todos tendrán *
 
 ---
 
+## 14. Comodidad
+
+- **Recordatorios:** en la guía, OK en un programa futuro — se marca ◉ y un minuto antes aparece «Cambiar».
+- **Favoritos:** OK largo — ▲▼ reordenan, OK renombra.
+- **Programa en pantalla**, **tamaño de la interfaz**, **inicio automático**, nuevo tema **«Neón»**.
+
+---
+
 © 2026 Ruslan G. Todos los derechos reservados.

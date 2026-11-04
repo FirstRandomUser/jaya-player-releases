@@ -159,4 +159,12 @@ Gizli grupları yeniden göstermek için grup listesinde **◀'ye hızlıca üç
 
 ---
 
+## 14. Kolaylık
+
+- **Hatırlatmalar:** yayın akışında gelecekteki programda OK — ◉ ile işaretlenir, başlamadan bir dakika önce «Geç» penceresi çıkar.
+- **Favoriler:** uzun OK — ▲▼ sıralar, OK yeniden adlandırır.
+- **Ekranda program**, **arayüz boyutu**, **otomatik başlatma**, yeni **«Neon»** teması.
+
+---
+
 © 2026 Ruslan G. Tüm hakları saklıdır.

@@ -159,4 +159,12 @@ Hozir barcha imkoniyatlar **bepul**. Pro chiqqanda har kimga yana **3 oy** to‘
 
 ---
 
+## 14. Qulaylik
+
+- **Eslatmalar:** dasturda kelajakdagi ko‘rsatuvga OK — ◉ belgisi, boshlanishidan bir daqiqa oldin «O‘tish» oynasi chiqadi.
+- **Sevimlilar:** uzoq OK — ▲▼ tartibini o‘zgartiradi, OK nomini o‘zgartiradi.
+- **Ekrandagi dastur**, **interfeys o‘lchami**, **avtoishga tushish**, yangi **«Neon»** mavzusi.
+
+---
+
 © 2026 Ruslan G. Barcha huquqlar himoyalangan.

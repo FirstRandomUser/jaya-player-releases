@@ -159,4 +159,14 @@ Right now all features are **free**. When Pro arrives, everyone gets another **3
 
 ---
 
+## 14. Convenience
+
+- **Reminders:** in the TV guide press OK on a future programme — it is marked ◉, and a “Switch” window appears a minute before it starts.
+- **Favourites:** long OK — marking mode; ▲▼ reorder channels, OK renames a channel.
+- **Programme on screen** (Settings → Screen): current programme title over the video, with position, size, background and colour.
+- **Interface size:** normal, large, extra large. **Autostart** with the device (Settings → Playback).
+- **Themes:** new “Neon” theme; settings in a strict metallic style.
+
+---
+
 © 2026 Ruslan G. All rights reserved.

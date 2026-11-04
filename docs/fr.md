@@ -159,4 +159,12 @@ Pour l’instant toutes les fonctions sont **gratuites**. À l’arrivée de Pro
 
 ---
 
+## 14. Confort
+
+- **Rappels :** dans le guide, OK sur un programme à venir — marqué ◉, une minute avant le début apparaît « Basculer ».
+- **Favoris :** OK long — ▲▼ réordonnent, OK renomme.
+- **Programme à l’écran**, **taille de l’interface**, **démarrage automatique**, nouveau thème **« Néon »**.
+
+---
+
 © 2026 Ruslan G. Tous droits réservés.
