@@ -165,6 +165,7 @@ Gizli grupları yeniden göstermek için grup listesinde **◀'ye hızlıca üç
 - **Favoriler:** uzun OK — ▲▼ sıralar, OK yeniden adlandırır.
 - **Ekranda program**, **arayüz boyutu**, **otomatik başlatma**, yeni **«Neon»** teması.
 
+- **Kanal simgeleri:** oynatma listesinden (tvg-logo), yoksa yayın akışından (EPG) alınır. Simge yoksa kanal adının harfleri gösterilir. Ayarlar → Ekran → «Kanal simgelerini göster».
 ---
 
 © 2026 Ruslan G. Tüm hakları saklıdır.

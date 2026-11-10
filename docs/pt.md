@@ -165,6 +165,7 @@ Neste momento todas as funções são **gratuitas**. Quando o Pro chegar, todos 
 - **Favoritos:** OK longo — ▲▼ reordenam, OK renomeia.
 - **Programa no ecrã**, **tamanho da interface**, **arranque automático**, novo tema **«Néon»**.
 
+- **Ícones dos canais:** da lista (tvg-logo) ou, se faltarem, do guia (EPG). Sem ícone, mostram-se as iniciais. Definições → Ecrã → «Mostrar ícones dos canais».
 ---
 
 © 2026 Ruslan G. Todos os direitos reservados.

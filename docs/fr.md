@@ -165,6 +165,7 @@ Pour l’instant toutes les fonctions sont **gratuites**. À l’arrivée de Pro
 - **Favoris :** OK long — ▲▼ réordonnent, OK renomme.
 - **Programme à l’écran**, **taille de l’interface**, **démarrage automatique**, nouveau thème **« Néon »**.
 
+- **Icônes des chaînes :** depuis la playlist (tvg-logo) ou, à défaut, depuis le guide (EPG). Sans icône, les initiales s’affichent. Réglages → Écran → « Afficher les icônes des chaînes ».
 ---
 
 © 2026 Ruslan G. Tous droits réservés.

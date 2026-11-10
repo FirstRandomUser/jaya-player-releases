@@ -165,6 +165,7 @@ Derzeit sind alle Funktionen **kostenlos**. Wenn Pro erscheint, erhält jeder we
 - **Favoriten:** langes OK — ▲▼ sortieren, OK benennt um.
 - **Sendung auf dem Bildschirm**, **Oberflächengröße**, **Autostart**, neues Design **„Neon“**.
 
+- **Senderlogos:** aus der Playlist (tvg-logo), sonst aus dem Programmführer (EPG). Ohne Logo werden die Initialen gezeigt. Einstellungen → Anzeige → „Senderlogos anzeigen“.
 ---
 
 © 2026 Ruslan G. Alle Rechte vorbehalten.

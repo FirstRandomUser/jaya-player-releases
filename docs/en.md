@@ -167,6 +167,7 @@ Right now all features are **free**. When Pro arrives, everyone gets another **3
 - **Interface size:** normal, large, extra large. **Autostart** with the device (Settings → Playback).
 - **Themes:** new “Neon” theme; settings in a strict metallic style.
 
+- **Channel icons:** taken from the playlist (tvg-logo) or, if missing, from the TV guide (EPG). No icon — the channel’s initials are shown. Turn off in Settings → Display → “Show channel icons”.
 ---
 
 © 2026 Ruslan G. All rights reserved.

@@ -165,6 +165,7 @@ Hozir barcha imkoniyatlar **bepul**. Pro chiqqanda har kimga yana **3 oy** to‘
 - **Sevimlilar:** uzoq OK — ▲▼ tartibini o‘zgartiradi, OK nomini o‘zgartiradi.
 - **Ekrandagi dastur**, **interfeys o‘lchami**, **avtoishga tushish**, yangi **«Neon»** mavzusi.
 
+- **Kanal belgilari:** pleylistdan (tvg-logo), bo‘lmasa dasturdan (EPG) olinadi. Belgi bo‘lmasa — nomining harflari. Sozlamalar → Ekran → «Kanal belgilarini ko‘rsatish».
 ---
 
 © 2026 Ruslan G. Barcha huquqlar himoyalangan.
